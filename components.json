@@ -37,6 +37,10 @@
 		"prism-tomorrow": {
 			"title": "Tomorrow Night",
 			"owner": "Rosey"
+		},
+		"prism-splitgraph": {
+			"title": "Splitgraph",
+			"owner": "Splitgraph"
 		}
 	},
 	"languages": {
@@ -998,6 +1002,11 @@
 			"require": "turtle",
 			"owner": "Triply-Dev",
 			"alias": "rq"
+		},
+		"splitfile": {
+			"title": "Splitfile",
+			"require": "sql",
+			"owner": "Splitgraph"
 		},
 		"splunk-spl": {
 			"title": "Splunk SPL",

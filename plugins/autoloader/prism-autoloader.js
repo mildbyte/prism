@@ -117,6 +117,7 @@
 		"solidity": "clike",
 		"soy": "markup-templating",
 		"sparql": "turtle",
+		"splitfile": "sql",
 		"sqf": "clike",
 		"swift": "clike",
 		"tap": "yaml",
